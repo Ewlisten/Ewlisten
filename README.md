@@ -24,6 +24,5 @@ I'm passionate about leveraging data to uncover trends in sports. Currently buil
                
                 - ## Contact
                 - 📧 whittle.elijah@gmail.com
-                - 🔗 [Portfolio](https://ewlisten.github.io) | [LinkedIn](https://linkedin.com/in/eliwhittle)
-                - 
+                - 🔗 [Portfolio](https://ewlisten.github.io) | [LinkedIn](https://linkedin.com/in/eliwhittle) 
  Always learning & building
