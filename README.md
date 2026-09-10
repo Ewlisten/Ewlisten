@@ -1,17 +1,7 @@
-```
-╔═══════════════════════════════════════════╗
-║  ● LIVE Comp Science, UDC'27     Wash, DC ║
-╠═══════════════════════════════════════════╣
-║                                           ║
-║   ELI WHITTLE                             ║
-║   ─────────────────────────────────────   ║
-║   DATA SCIENCE  |  SPORTS ANALYTICS       ║
-║   FOULTERRITORY |  RESEARCH INTERN        ║
-╚═══════════════════════════════════════════╝
-```
+
 ## 📊 BOX SCORE — THE LINEUP
 
-**E. WHITTLE**  ·  Data Science, UDC '27  ·  Washington, DC
+**E. WHITTLE**  ·  Comp Science, UDC '27  ·  Washington, DC
 
 | POS | PROJECT | STACK | STATUS |
 |:--:|---|---|:--:|
