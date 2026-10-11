@@ -7,6 +7,6 @@
 |:--:|---|---|:--:|
 | 1B | **MLB Toolkit** | Python · Pandas | ACTIVE |
 | CF | **Basketball Motion** | Python · Roboflow · CV | IN PROGRESS |
-| DH | **WNBA Prop Model** | Python · Scikit-learn | ACTIVE |
+| DH | **Basketball Prop Model** | Python/R · Scikit-learn | ACTIVE |
 | C | **Portfolio Site** | JavaScript | LIVE |
 
